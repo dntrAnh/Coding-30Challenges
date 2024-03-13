@@ -1,15 +1,18 @@
-# Coding-Self-Challenge
+DAY 2 of
 
-💪 Welcome to my Self-Challenge Coding, where I put every of my projects that I have done so far during my free time to enhance my technical skills as a student who is working towards my goal of being a Product Manager ✨. 
+## Coding-Self-Challenge
 
-💡 My rules for myself are pretty simple, just in order to give myself flexibility but also a push towards a better understanding of coding in the least pressure, making it a hobby 🥳 rather than a MUST 😵‍💫: 
+# 🌤️ What's the Weather Today? 
 
-📌 Finish every project that I start <br>
-📌 Set a timer to record the progress <br>
-📌 Do it everyday - even if it is for 15-30 minutes (psst, I realize you don't have to spend THAT much time a day to code in order to become better) <br>
-📌 Use class's projects, side projects, personal projects, and hackathon's projects as bases for the projects in the Challenge! (And, it's not a cheat key, because I still learn from each of these anyway! Sounds fun and productive!) <br>
+Time taken: 60 minutes
 
-Thanks for tuning in!
+Level: Intermediate
 
-Best, <br>
-Amelia Do
+Tutorial from: https://www.codedex.io/projects/create-a-to-do-list-app-with-html-css-js
+
+I got excited because I am intending to do a project on Google Maps clone soon and this project is a perfect foundation to know a thing or two about APIs interaction. I changed a few things to make the website more pretty, fixing some codings here and there because the tutorial this time is not 100% correct. That part took me the most time but other than that, I found myself easily follow the tutorials and finishing it up in less than an hour! 
+
+
+
+https://github.com/dntrAnh/Coding-Self-Challenge/assets/130517596/b178887a-c5cf-4c93-a438-c7436e1a3562
+
