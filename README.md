@@ -1,5 +1,8 @@
-DAY 1 of 
-# Coding-Self-Challenge
+DAY 1 of
+
+Coding-Self-Challenge
+
+## 📋 A TO-DO LIST GENERATOR ✅
 
 Time taken: 30 minutes
 
