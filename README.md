@@ -11,5 +11,8 @@
 
 Thanks for tuning in!
 
-Best, <br>
-Amelia Do
+### Challenge 1: To-Do List
+
+### Challenge 2: Weather App 
+
+### Challenge 3: Album Finder
